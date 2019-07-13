@@ -17,6 +17,7 @@ class WeatherDataModel {
     var weatherIconeName : String = ""
     var description : String = ""
     var country : String = ""
+    var coord : Double = 0.0
     
     
         
